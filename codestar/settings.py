@@ -27,7 +27,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     "8000-brogandaisy-djangoblog-01skhpwxc3h.ws.codeinstitute-ide.net",
-    "https://djangoblog0701-afb62cecd47a.herokuapp.com/"
+    "djangoblog0701-afb62cecd47a.herokuapp.com/"
     ]
 
 
